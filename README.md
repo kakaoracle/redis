@@ -1,3 +1,8 @@
+# 主要研究6.0这一分支,fork下来该工程用来注释
+
+
+
+
 This README is just a fast *quick start* document. You can find more detailed documentation at [redis.io](https://redis.io).
 
 What is Redis?
