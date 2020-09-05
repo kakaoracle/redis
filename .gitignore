@@ -4,7 +4,6 @@
 *.so
 *.d
 *.log
-./cmake-build-debug
 dump.rdb
 redis-benchmark
 redis-check-aof
@@ -38,3 +37,4 @@ Makefile.dep
 .ccls
 .ccls-cache/*
 compile_commands.json
+/cmake-build-debug/
