@@ -4,6 +4,7 @@
 *.so
 *.d
 *.log
+./cmake-build-debug
 dump.rdb
 redis-benchmark
 redis-check-aof
